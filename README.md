@@ -10,7 +10,7 @@ Mapel : Pemograman Web
 
 Tampilan dari antrian Rumah sakit
 
-![tampilan](https://user-images.githubusercontent.com/82001840/126321273-1e136f73-5f4d-47ad-b95d-8e170cbf7c2a.PNG)
+![tampilan pengguna](https://user-images.githubusercontent.com/82001840/126321701-87554c24-0fe1-483f-bc3c-2e02e4186b75.PNG)
 
 Menu Pengambilan Antrian
 
